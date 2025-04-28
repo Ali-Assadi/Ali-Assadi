@@ -6,6 +6,20 @@
 </p>
 
 ---
+### 🏅 Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Expert-informational?style=for-the-badge&logo=java&logoColor=white&color=red" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-informational?style=for-the-badge&logo=python&logoColor=white&color=blue" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/C-Language-informational?style=for-the-badge&logo=c&logoColor=white&color=00599C" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-Professional-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/Angular-Developer-informational?style=for-the-badge&logo=angular&logoColor=white&color=DD0031" alt="Angular Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-Database%20Expert-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB Badge"/>
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/System%20Analysis-Specialist-informational?style=for-the-badge&logo=knowledgebase&logoColor=white&color=orange" alt="System Analysis Badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Security%20Focused-informational?style=for-the-badge&logo=security&logoColor=white&color=black" alt="Cybersecurity Badge"/>
+</p>
 
 ### 🧑‍💻 About Me
 - 🔭 I’m currently working on **full-stack projects with Angular, Node.js, and MongoDB**
