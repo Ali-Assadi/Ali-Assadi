@@ -43,8 +43,8 @@ Here are some of the projects I've worked on:
 ---
 
 ### 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliassadi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliassadi&layout=compact&theme=radical)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-assadi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-assadi&layout=compact&theme=radical)
 
 ---
 
