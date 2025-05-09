@@ -26,7 +26,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on **full-stack projects with Angular, Node.js, and MongoDB**
+- 🔭 I’m currently working on **full-stack projects with Angular, Node.js, and MongoDB / React , Java Spring Boot and MongoDB**
 - 🌱 I’m currently learning **Advanced Cybersecurity and System Architecture**
 - 🎓 I have completed a **Certified Ethical Hacker (CEH) course** to enhance my cybersecurity expertise
 - 👯 I’m looking to collaborate on **Open Source Projects and Innovative Startups**
