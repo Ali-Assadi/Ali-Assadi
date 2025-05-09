@@ -55,7 +55,7 @@
 ---
 
 ### 🚀 Featured Projects
-- [HealthCare24](https://github.com/Ali-Assadi/HealthCare24) - Full-stack (medical-nutrition-fitness) management platform
+- [HealthCare24](https://github.com/Ali-Assadi/HealthCare24) - Full-stack (medical-nutrition-fitness) management platform System generate Diet&Exercise program
 - [PHP-Restaurant Project](https://github.com/Khader1jeries/PHP-Resturant-Project) - Dynamic Restaurant Website
 - [E-barber Project](https://github.com/Ali-Assadi/E-barber-project) - Online barber booking system
 - *(More projects available in my repositories!)*
