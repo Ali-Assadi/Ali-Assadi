@@ -40,7 +40,7 @@
   
 | Languages | Frontend | Backend | Databases | Security & Tools | Systems |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Java, Python, C, JavaScript (Advanced), TypeScript, PHP, SQL | Angular, HTML5, CSS3 | Node.js, Express.js, PHP | MongoDB, SQL | Cybersecurity (תקשורת ואבטחת מידע מתקדם), CEH Certification, Arduino | Linux, Operating Systems (מערכות הפעלה), System Analysis (ניתוח מערכות) |
+| Java, Python, C, JavaScript (Advanced), React, Java Spring Boot TypeScript, PHP, SQL | Angular, HTML5, CSS3 | Node.js, Express.js, PHP | MongoDB, SQL | Cybersecurity (תקשורת ואבטחת מידע מתקדם), CEH Certification, Arduino | Linux, Operating Systems (מערכות הפעלה), System Analysis (ניתוח מערכות) |
 
 </div>
 
